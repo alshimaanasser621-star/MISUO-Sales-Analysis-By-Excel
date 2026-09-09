@@ -21,6 +21,5 @@ to identify top-performing products, platforms, and delivery insights.
 * **On-Time Delivery Rate:**
 * **Cancellation Rate:** 
 
-
 ## Author
 Alshimaa Nasser | Junior Data Analyst
